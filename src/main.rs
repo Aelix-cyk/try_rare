@@ -1,3 +1,4 @@
+mod bus;
 mod dram;
 mod exception;
 mod parameter;
